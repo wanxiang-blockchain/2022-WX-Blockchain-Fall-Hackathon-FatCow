@@ -40,6 +40,11 @@ The social trading network is powered by FatCow IO social trading protocol that 
 	* SmartPy 0.2 (native install)
     * NodeJS >= 10
 
+### IPFS (Fleek)
+- [https://ipfs.fleek.co/ipfs/QmSwF4B7ji5VWA8vLVpjMM7mjaw8Nqiau3ykUWMrFq2cyK](https://ipfs.fleek.co/ipfs/QmSwF4B7ji5VWA8vLVpjMM7mjaw8Nqiau3ykUWMrFq2cyK "ipfs") : For store the front host on IPFS
+
+
+
 ###  IDE .
 	* VSCode
     * Python Ext.
