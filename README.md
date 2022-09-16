@@ -8,7 +8,8 @@ FatCow IO is a social trading protocol based on Web 3.0 and NFT utility contract
 Social Trading Network.
 The social trading network is powered by FatCow IO social trading protocol that enables anyone to create an on-chain social trading network using Extending ERC721 .
 
-
+###  Deck (Slide)
+[https://github.com/wanxiang-blockchain/2022-WX-Blockchain-Fall-Hackathon-FatCow/FatCow-IO-Slide.pdf](FatCow-IO-Slide.pdf)
 
 ###  Technical Architecture
 <p align="center">
