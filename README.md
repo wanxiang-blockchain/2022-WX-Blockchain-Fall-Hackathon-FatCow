@@ -16,6 +16,25 @@ The social trading network is powered by FatCow IO social trading protocol that 
   <img src="images/fatcowio.png" style="width:1300px";>
 </p>
 
+### Built with
+- [SmartPy](https://smartpy.io/ "Solidity"): as Main Coding Language for Tezos Blockchain writing smart contract
+
+- [ReactJs](https://reactjs.org/ "React Js"): as Main Coding Language for Creating The Front components (Front End)
+
+- [Next.Js](https://nextjs.org/ "Next.Js"): as Main Coding Language for Creating The Front Web SDK 
+
+- [MUI](https://mui.com/ "Mui"): as Main Coding Language for styling UI components
+
+- [Fleek](https://fleek.co/ "Fleek"): For Dapp front store host on IPFS using Fleek
+
+- [IPFS](https://ipfs.tech/ "IPFS"): For Storing of files
+
+- [Web3.Storage](https://web3.storage/ "Web3 Storage"): For Storing NFT pictures and Metadata files
+
+- [Github](https://github.com/ "Github") : For Repo Storage and source code management
+
+- [TempleWallet](https://templewallet.com/ "templewallet") : For Tezos Blockchain Signer of Cryptocurrency Wallet
+
 ###  Requirements
 	* Python 3.7+ (native install)
 	* SmartPy 0.2 (native install)
@@ -24,6 +43,7 @@ The social trading network is powered by FatCow IO social trading protocol that 
 ###  IDE .
 	* VSCode
     * Python Ext.
+
 
 ### Web site
 https://fatcow.io
