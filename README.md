@@ -13,7 +13,7 @@ The social trading network is powered by FatCow IO social trading protocol that 
 
 ###  Demo Video
 <a href="https://www.youtube.com/watch?v=TjAs-bi5zcM" target="_blank">
- <img src="images/fatcowio.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="images/fatcowdemo.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 ###  
 <a href="images/demovideo.mov" target="_blank">
