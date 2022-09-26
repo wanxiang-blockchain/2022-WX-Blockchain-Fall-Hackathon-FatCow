@@ -59,6 +59,9 @@ The social trading network is powered by FatCow IO social trading protocol that 
     * Python Ext.
 
 
+### Github
+https://github.com/fatcowio
+
 ### Web site
 https://fatcow.io
 
@@ -67,4 +70,5 @@ https://twitter.com/FatCowIO
 
 ### Youtube channel
 https://www.youtube.com/channel/UChhkJDQQnFx7jJbAKO3C4uQ
+
 
